@@ -1,18 +1,38 @@
-# priya
+# 💬 Let's Chat – A Flutter Chat Application
 
-A new Flutter project.
+A real-time cross-platform chat application built using **Flutter**, **Firebase Auth**, and **Cloud Firestore**.  
+Supports **login/register**, **chat with multiple users**, **Firebase authentication**, and **responsive UI** for both **mobile** and **web**.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🚀 Features
 
-A few resources to get you started if this is your first Flutter project:
+- 🔐 Firebase Authentication (Email & Password)
+- 💬 Real-time messaging using Cloud Firestore
+- 🌗 Light & Dark theme toggle
+- 🧭 Navigation drawer UI
+- 🌍 Web & Android support (iOS optional)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 📸 Demo
 
-# chat-application
+
+
+> A short video demo is available below ⬇️
+https://youtu.be/C5NE6UIqTo0
+---
+
+## 🛠️ Tech Stack
+
+| Technology        | Purpose                                |
+|-------------------|----------------------------------------|
+| Flutter           | Frontend & Cross-platform UI           |
+| Firebase Auth     | User Authentication                    |
+| Cloud Firestore   | Real-time Database                     |
+| Provider          | State Management                       |
+
+---
+
+## 📂 Folder Structure (High-Level)
+
