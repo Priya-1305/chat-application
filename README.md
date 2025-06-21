@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # priya
 
 A new Flutter project.
@@ -15,6 +14,5 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
-=======
+
 # chat-application
->>>>>>> bbed7f483674f4c1db6096e13528bbd277d73ef7
