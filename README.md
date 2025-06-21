@@ -17,10 +17,10 @@ Supports **login/register**, **chat with multiple users**, **Firebase authentica
 
 ## 📸 Demo
 
-![Chat App UI](demo/screenshots/chat-ui.png)
+
 
 > A short video demo is available below ⬇️
-
+https://youtu.be/C5NE6UIqTo0
 ---
 
 ## 🛠️ Tech Stack
