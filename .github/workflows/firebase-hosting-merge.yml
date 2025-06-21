@@ -32,3 +32,5 @@ jobs:
           firebaseServiceAccount: '${{ secrets.FIREBASE_SERVICE_ACCOUNT_LET_S_CHAT_4626C }}'
           channelId: live
           projectId: let-s-chat-4626c
+        env:
+          FIREBASE_SERVICE_ACCOUNT_LET_S_CHAT_4626C: ${{ secrets.FIREBASE_SERVICE_ACCOUNT_LET_S_CHAT_4626C }}
